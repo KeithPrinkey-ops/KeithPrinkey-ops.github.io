@@ -1,4 +1,4 @@
-# KeithPrinkey-ops.github.io
+# KeithPrinkey-ops
 
 I am the chief technical officer for World eSports LLC. I have worked on several other projects including creating a new meeting for AL-ANON, created two of my own websites and now working on a third with another developer. 
 
