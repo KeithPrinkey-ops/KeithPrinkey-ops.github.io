@@ -16,7 +16,7 @@
 
 # <a href="mailto:chieftech@worldesports.app">Email Us</a>
 ---
-# <a href="https://bestthereis1983.me/funding.yml">Donate</a>
+# <a href="/funding.yml">Donate</a>
 ---
 # <a href="https://worldesports.app" target="_blank">World eSports Website</a>
 ---
