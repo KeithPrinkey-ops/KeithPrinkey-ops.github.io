@@ -2,6 +2,6 @@ remote_theme: pages-themes/architect@v0.2.0
 title: My portfolio
 layout: [page]
 description: The purpose of this site is to display my work as a web developer!
-page: [Keith Prinkey]
-permalink: [https://worldesports.app]
-site: 
+page: []
+permalink: https://worldesports.app
+site: []
