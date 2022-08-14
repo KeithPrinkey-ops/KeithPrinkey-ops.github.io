@@ -21,7 +21,7 @@
 # <a href="https://worldesports.app" target="_blank">World eSports Website</a>
 ---
 
- World eSports LLC &copy; 2022 
 
  <img src="https://worldesports.app/media/f55a4s3v/wehl_media_logo_4.png" alt="World eSports Project"><br>
  
+ World eSports LLC &copy; 2022 
