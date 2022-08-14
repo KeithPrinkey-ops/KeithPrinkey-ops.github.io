@@ -10,7 +10,7 @@ We offer several key features including but not limited to; drafting, scheduling
 I have listed some of our work below. If you are interested in having your website programmed or need developmental help you can email us at the link below!
 ---
 
-<a href="mailto:chieftech@worldesports.app">Email Me</a>
+<a href="mailto:chieftech@worldesports.app">Email Us</a>
 
 <a href="https://worldesports.app" target="_blank">World eSports Website</a>
 
