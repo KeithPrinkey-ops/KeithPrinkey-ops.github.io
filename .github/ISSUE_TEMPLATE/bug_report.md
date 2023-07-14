@@ -1,16 +1,12 @@
 **Please use the template below to submit a bug report. You will need to remove the placeholder data and enter your own**
 
----
+| name       | Bug report          |
+|------------|---------------------|
+| about      | Create a report to help us improve  |
+| title      | 'eSports Bugs'      |
+| labels     | 'bug'               |
+| assignees  | 'Keith Prinkey'     |
 
-
-name: Bug report
-about: Create a report to help us improve
-title: 'eSports Bugs'
-labels: 'bug'
-assignees: 'Keith Prinkey'
-
-
----
 
 **Describe the bug**<br>
 A clear and concise description of what the bug is.
