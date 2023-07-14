@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: 'World eSports Bugs'
+title: 'eSports Bugs'
 labels: 'bug'
 assignees: 'Keith Prinkey'
 
